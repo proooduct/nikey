@@ -38,17 +38,18 @@ main {
   transform: translate(-50%, -50%);
 }
 
-/* Left Section */
+/* Left & Right */
+
 .left {
   background-image: url("./assets/left.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
-/* Right Section */
 .right {
   background-image: url("./assets/right.jpg");
+}
+
+.left,
+.right {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
