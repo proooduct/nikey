@@ -41,11 +41,11 @@ main {
 /* Left & Right */
 
 .left {
-  background-image: url("./assets/left.jpg");
+  background-image: url("./assets/left.webp");
 }
 
 .right {
-  background-image: url("./assets/right.jpg");
+  background-image: url("./assets/right.webp");
 }
 
 .left,
